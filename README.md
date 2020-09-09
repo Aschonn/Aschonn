@@ -7,9 +7,8 @@
 ## best way to get to know me: 
 
   <img src="https://media.giphy.com/media/VUgs2T6uHERXO/giphy.gif">
-## best way to piss me off:
 
-  <img src='https://media.giphy.com/media/gLKgVISg5gE7a8Zk2J/giphy.gif'>
+## 📫 How to reach me: 
 
-
-📫 How to reach me: @aschonn or aschonn_trinity@yahoo.com 📧
+- 📧 Email: @aschonn or aschonn_trinity@yahoo.com 
+- 🖥️ Personal Website: https://andrewschonnesen.com/

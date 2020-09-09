@@ -2,7 +2,7 @@
 
 **Aschonn/Aschonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://media.giphy.com/media/ILdXafcv6PGF2/giphy-downsized.gif" width = "60" ><em>With Love, a former barista 😉</em>
+<img src="https://media.giphy.com/media/ILdXafcv6PGF2/giphy-downsized.gif"><em>With Love, a former barista 😉</em>
 
 Here are some ideas to get you started:
 

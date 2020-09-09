@@ -13,4 +13,4 @@
 - 📧 Email: @aschonn or aschonn_trinity@yahoo.com 
 - 🖥️ Personal Website: https://andrewschonnesen.com/
 - 👨🏻‍💻 Linkedin: https://www.linkedin.com/in/andrew-schonnesen-ab7393197/
-- <a><i class="fab fa-medium-m"></i></a> Medium: https://medium.com/@aschonn
+- ⓜ Medium: https://medium.com/@aschonn

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on so cool that it's not but is 🤔
-🌱 I’m secretly learning pentesting, deep learning, and meditation 🤫 
-💬 Ask me about anything
+- 🔭 I’m currently working on so cool that it's not but is 🤔
+- 🌱 I’m secretly learning pentesting, deep learning, and meditation 🤫 
+- 💬 Ask me about anything
 
 ## best way to get to know me: 
 

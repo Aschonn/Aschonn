@@ -5,7 +5,7 @@
 - #️⃣ Favorite Number: 27429943532023406 (hint:ascii)
 - 💬 Ask me about anything
 
-## best way to get to know me: 
+## Best way to get to know me: 
 
   <img src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif">
 

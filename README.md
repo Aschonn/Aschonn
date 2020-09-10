@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on so cool that it's not but is 🤔
 - 🌱 I’m secretly learning pentesting, deep learning, and meditation 🤫 
-- #️⃣ favorite Number: 1100001011100110110001101101000011011109971411230261254
+- #️⃣ favorite Number: 27429943532023406
 - 💬 Ask me about anything
 
 ## best way to get to know me: 

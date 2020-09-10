@@ -7,7 +7,7 @@
 
 ## best way to get to know me: 
 
-  <img src="https://media.giphy.com/media/VUgs2T6uHERXO/giphy.gif">
+  <img src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif">
 
 ## 📫 How to reach me: 
 

@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on so cool that it's not but is 🤔
-- 🌱 I’m secretly learning pentesting, deep learning, and meditation 🤫 
+- 📁 Most Current Project: https://www.hpforiginals.com
+- 🌱 I’m secretly learning Django, deep learning, and meditation 🤫 
 - #️⃣ Favorite Number: 27429943532023406 (hint:ascii)
 - 💬 Ask me about anything
 

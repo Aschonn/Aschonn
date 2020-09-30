@@ -1,5 +1,5 @@
 <div align='center'>
-  <div>
+  <div style="text-align:center;">
     <h1>Hi there 👋</h1>
     <ul>
       <li>🔭 I’m currently working on so cool that it's not but is 🤔</li>

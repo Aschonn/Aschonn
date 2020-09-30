@@ -17,10 +17,13 @@
 <br><br>
 
 
+
+
+<h1 align="left">Technologies</h1>
 <h1 align="right">Best Way To Chat</h1>
 <img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="300">
 
-<h1 align="left">Technologies</h1>
+
  
 <p align="left">
 <code>

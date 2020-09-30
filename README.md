@@ -1,13 +1,13 @@
 <div align='center'>
- <div align='left'>
-   <h1>Hi there 👋</h1>
- <ul>
-   <li>🔭 I’m currently working on so cool that it's not but is 🤔</li>
-   <li>📁 Most Current Project: https://www.hpforiginals.com</li>
-   <li>🌱 I’m secretly learning Django, Deep Learning, and Meditation 🤫 </li>
-   <li> #️⃣ Favorite Number: 27429943532023406 (hint:ascii)</li>
-   <li>💬 Ask me about anything!</li>
-  </ul>
+  <div style={text-align:center}>
+    <h1>Hi there 👋</h1>
+  <ul>
+    <li>🔭 I’m currently working on so cool that it's not but is 🤔</li>
+    <li>📁 Most Current Project: https://www.hpforiginals.com</li>
+    <li>🌱 I’m secretly learning Django, Deep Learning, and Meditation 🤫 </li>
+    <li> #️⃣ Favorite Number: 27429943532023406 (hint:ascii)</li>
+    <li>💬 Ask me about anything!</li>
+   </ul>
  </div>
 
 </div>

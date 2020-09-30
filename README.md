@@ -19,14 +19,15 @@
 
 
 
-<h1 align="left">Technologies</h1>
-<h1 align="right">Best Way To Chat</h1>
+
+
 
 
 
  
 <p>
 <code align="left">
+<h1 align="left">Technologies</h1>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -45,6 +46,7 @@
 </code>
  
 <code align="right">
+  <h1 align="right">Best Way To Chat</h1>
   <img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="300">
 </code>
 </p>

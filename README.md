@@ -36,6 +36,7 @@
 </code>
 </p>
 
+<img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="230">
 
  <div>       
     <ul>

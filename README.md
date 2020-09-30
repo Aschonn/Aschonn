@@ -36,6 +36,7 @@
 </code>
 </p>
 
+<h1 align="right">Best Way To Chat</h1>
 <img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="230">
 
  <div>       

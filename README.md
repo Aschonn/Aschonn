@@ -21,6 +21,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aschonn&show_icons=true&line_height=27" alt="My github stats" />
 </a>  
 
+<br>
+
 * Latest Project: <a class="post" href="https://www.hpforiginals.com">Full Stack Blog Application (published on September 15, 2020)</a>
 
 

@@ -28,10 +28,11 @@
 </p>
 
 <div>
+  <h2>Best way to get to know me:</h2>
   <img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif">
 </div>
 
-## Best way to get to know me: 
+
 
   
 

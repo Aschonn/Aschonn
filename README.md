@@ -1,11 +1,6 @@
 <h1 align="center">Hello, I'm Andrew 👋</h1>
 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aschonn&label=Profile+Views" />
-</p>
-
-
 <img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="230">
 
 - 🔭 I’m currently working on so cool that it's not but is 🤔 

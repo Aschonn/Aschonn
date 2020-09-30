@@ -1,5 +1,5 @@
 <div align='center'>
-  <div style="text-align:center;">
+  <div style="text-align=left;">
     <h1>Hi there 👋</h1>
     <ul>
       <li>🔭 I’m currently working on so cool that it's not but is 🤔</li>
@@ -8,7 +8,7 @@
       <li> #️⃣ Favorite Number: 27429943532023406 (hint:ascii)</li>
       <li>💬 Ask me about anything!</li>
      </ul>
- </div>
+  </div>
 </div>
 
 

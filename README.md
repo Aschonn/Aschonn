@@ -33,7 +33,7 @@
 
 ## 📫 How to reach me: 
 
-- 📧 Email: @aschonn or aschonn_trinity@yahoo.com 
+- 📧 Email: aschonn_trinity@yahoo.com 
 - 🖥️ Personal Website: https://andrewschonnesen.com/
 - 👨🏻‍💻 Linkedin: https://www.linkedin.com/in/andrew-schonnesen-ab7393197/
 - ⓜ Medium: https://medium.com/@aschonn

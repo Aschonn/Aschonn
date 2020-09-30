@@ -22,9 +22,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aschonn&show_icons=true&line_height=27" alt="My github stats" />
 </a>  
 
-* Latest blog post: <a class="post" href="https://blog.trnck.dev/terminal-tricks/">Perfecting the Windows Terminal (published on August 6, 2020)</a>
-* Latest tweet: [![my latest tweet @aschonn](https://raw.githubusercontent.com/aschonn/aschonn/master/tweet.png)](https://twitter.com/aschonn)
-script made by [@aschonn](https://github.com/aschonn/)
+* Latest Project: <a class="post" href="https://www.hpforiginals.com">Full Stack Blog Application (published on September 15, 2020)</a>
+
 
 
 

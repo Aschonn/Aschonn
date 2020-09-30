@@ -16,6 +16,10 @@
 - 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 <br><br>
 
+
+<h1 align="right">Best Way To Chat</h1>
+<img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="300">
+
 <h1 align="left">Technologies</h1>
  
 <p align="left">
@@ -42,8 +46,6 @@
 
 </p>
 
-<h1 align="right">Best Way To Chat</h1>
-<img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="300">
 
 
 

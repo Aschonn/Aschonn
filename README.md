@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on so cool that it's not but is 🤔
 - 📁 Most Current Project: https://www.hpforiginals.com
-- 🌱 I’m secretly learning Django, deep learning, and meditation 🤫 
+- 🌱 I’m secretly learning Django, Deep Learning, and Meditation 🤫 
 - #️⃣ Favorite Number: 27429943532023406 (hint:ascii)
 - 💬 Ask me about anything
 

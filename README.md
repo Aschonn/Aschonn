@@ -1,9 +1,5 @@
 <h1 align="center">Hello, I'm Andrew 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" />
-</p>
-
 <img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="230">
 
 - 🔭 I’m currently working on so cool that it's not but is 🤔 

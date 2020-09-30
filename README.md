@@ -1,10 +1,12 @@
 <div align='center'>
  <h1>Hi there 👋</h1>
-- 🔭 I’m currently working on so cool that it's not but is 🤔
-- 📁 Most Current Project: https://www.hpforiginals.com
-- 🌱 I’m secretly learning Django, Deep Learning, and Meditation 🤫 
-- #️⃣ Favorite Number: 27429943532023406 (hint:ascii)
-- 💬 Ask me about anything
+ <ul>
+   <li>🔭 I’m currently working on so cool that it's not but is 🤔</li>
+   <li>📁 Most Current Project: https://www.hpforiginals.com</li>
+   <li>🌱 I’m secretly learning Django, Deep Learning, and Meditation 🤫 </li>
+   <li> #️⃣ Favorite Number: 27429943532023406 (hint:ascii)</li>
+   <li>💬 Ask me about anything!</li>
+  </ul>
 </div>
 
 

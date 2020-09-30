@@ -34,16 +34,16 @@
       <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
       <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 </code>
+ 
+- 📧 Email: aschonn_trinity@yahoo.com  
+- 🖥️ Personal Website: https://andrewschonnesen.com/ 
+- 👨🏻‍💻 Linkedin: https://www.linkedin.com/in/andrew-schonnesen-ab7393197/
+- ⓜ Medium: https://medium.com/@aschonn
+
 </p>
 
 <h1 align="right">Best Way To Chat</h1>
-<img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="300">
 
- <div>       
-    <ul>
-      <li>📧 Email: aschonn_trinity@yahoo.com </li>
-      <li>🖥️ Personal Website: https://andrewschonnesen.com/</li>
-      <li>👨🏻‍💻 Linkedin: https://www.linkedin.com/in/andrew-schonnesen-ab7393197/</li>
-      <li>ⓜ Medium: https://medium.com/@aschonn</li>
-    </ul>
-</div>
+
+

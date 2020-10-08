@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on so cool that it's not but is (hint it doesnt involve servers) 🤔 
 
-- 📁 Most Current Project: https://www.hpforiginals.com
+- 📁 Most Current Project: <a href='https://github.com/Aschonn/django-vs-flask'>Django Vs Flask</a>
 
 - 🌱 I’m secretly learning Django, Deep Learning, and Meditation 🤫 
 

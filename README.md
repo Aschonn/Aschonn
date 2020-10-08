@@ -1,6 +1,6 @@
 # Hello, I'm Andrew 👋
 
-- 🔭 I’m currently working on so cool that it's not but is 🤔 
+- 🔭 I’m currently working on so cool that it's not but is (hint it doesnt involve servers) 🤔 
 
 - 📁 Most Current Project: https://www.hpforiginals.com
 

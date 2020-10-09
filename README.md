@@ -1,6 +1,6 @@
 # Hello, I'm Andrew 👋
 
-- 🔭 I’m currently working on so cool that it's not but is (hint it doesnt involve servers) 🤔 
+- 🔭 I’m currently working on brainstorming ideas on what to do with my unoccupied server 🤔 
 
 - 📁 Most Recent Project: <a href='https://github.com/Aschonn/django-vs-flask'>Django Vs Flask</a>
 

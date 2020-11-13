@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on brainstorming ideas on what to do with my unoccupied server 🤔 
 
-- 📁 Most Recent Project: <a href='https://github.com/Aschonn/django-vs-flask'>Django Vs Flask</a>
+- 📁 Most Recent Project: <a href='https://github.com/Aschonn/Django-Loan-Predictor'>Django-Loan-Predictor</a>
 
 - 🌱 I’m secretly learning Django, Deep Learning, and Meditation 🤫 
 

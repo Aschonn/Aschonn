@@ -1,6 +1,6 @@
 # Hello, I'm Andrew 👋
 
-- 🔭 I’m currently working on Freelance Project 🤔 
+- 🔭 I’m currently working on Freelance Project 
 
 - 📁 Most Recent Project: <a href='https://github.com/Aschonn/Django-Loan-Predictor'>Django-Loan-Predictor</a>
 

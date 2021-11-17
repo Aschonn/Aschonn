@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently working on Freelance Project 
 
-- 📁 Most Recent Project: <a href='https://github.com/Aschonn/'>Undergraduate Research Project</a>
+- 📁 Most Recent Project: <a href='https://github.com/Aschonn/ML-Multiclass-classification-processing'>Undergraduate Research Project</a>
 
-- 🌱 I’m secretly learning Django, Deep Learning, and Meditation 🤫 
-
--  #️⃣ Favorite Number: 27429943532023406 (hint:ascii)
+- 🌱 Interning at ShoutYourName 🌱
 
 - 💬 Ask me about anything!
 

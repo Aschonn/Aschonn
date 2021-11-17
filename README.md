@@ -1,6 +1,6 @@
 # Hello, I'm Andrew 👋
 
-- 🔭 I’m currently working on Freelance Project 
+- 🔭 I’m currently researching machine learning theories
 
 - 📁 Most Recent Project: <a href='https://github.com/Aschonn/ML-Multiclass-classification-processing'>Undergraduate Research Project</a>
 

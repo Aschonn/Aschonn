@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Freelance Project 
 
-- 📁 Most Recent Project: <a href='https://github.com/Aschonn/Django-Loan-Predictor'>Django-Loan-Predictor</a>
+- 📁 Most Recent Project: <a href='https://github.com/Aschonn/'>Undergraduate Research Project</a>
 
 - 🌱 I’m secretly learning Django, Deep Learning, and Meditation 🤫 
 

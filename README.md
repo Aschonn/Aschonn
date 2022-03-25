@@ -23,15 +23,15 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 </code>
 
-
+<!-- 
 
  -->
 <br>
-
+<!-- 
 ##  GitHub stats:  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aschonn&langs_count=8" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aschonn&langs_count=8" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aschonn&show_icons=true&line_height=27" alt="My github stats" />
@@ -42,9 +42,9 @@
 * Latest Project: <a class="post" href="https://www.hpforiginals.com">Full Stack Blog Application (published on September 15, 2020)</a>
 
 
+ -->
 
-
-
+ --> -->
 <br>
 
 

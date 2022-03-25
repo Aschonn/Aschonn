@@ -8,7 +8,6 @@
 
 - 💬 Ask me about anything!
 
-<br>
 <!-- 
 ## Certifiable Abilities
 <code align="left">
@@ -26,7 +25,6 @@
 <!-- 
 
  -->
-<br>
 <!-- 
 ##  GitHub stats:  
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -44,7 +42,6 @@
 
  -->
 
- --> -->
 <br>
 
 

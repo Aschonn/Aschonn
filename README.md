@@ -4,7 +4,7 @@
 
 - 📁 Most Recent Project: <a href='https://github.com/Aschonn/ML-Multiclass-classification-processing'>Undergraduate Research Project</a>
 
-- 🌱 Interning at ShoutYourName 🌱
+- 🌱 Interning at BAE Systems 🌱
 
 - 💬 Ask me about anything!
 

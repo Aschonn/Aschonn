@@ -4,7 +4,7 @@
 
 - 📁 Most Recent Project: <a href='https://github.com/Aschonn/ML-Multiclass-classification-processing'>Undergraduate Research Project</a>
 
-- 🌱 Interning at BAE Systems 🌱
+- 🌱 Junior DevOps Engineer at Patron Points 🌱
 
 - 💬 Ask me about anything!
 

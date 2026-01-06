@@ -50,9 +50,8 @@
 </p>
 
  
-- 📧 Email: aschonn_trinity@yahoo.com  
+- 📧 Email: andrew.schonnesen@gmail.com 
 - 👨🏻‍💻 Linkedin: https://www.linkedin.com/in/andrew-schonnesen-ab7393197/
-- ⓜ Medium: https://medium.com/@aschonn
 
 </p>
 

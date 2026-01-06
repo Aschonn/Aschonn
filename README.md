@@ -1,10 +1,6 @@
 # Hello, I'm Andrew 👋
 
-- 🔭 I’m currently researching object detection and tracking
-
-- 📁 Most Recent Project: <a href='https://github.com/Aschonn/ML-Multiclass-classification-processing'>Undergraduate Research Project</a>
-
-- 🌱 Junior DevOps Engineer at Patron Points 🌱
+- 🔭 Working as a DevOps Engineer
 
 - 💬 Ask me about anything!
 

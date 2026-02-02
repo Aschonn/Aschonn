@@ -49,8 +49,6 @@
 </code>
 </p>
 
- 
-- 📧 Email: andrew.schonnesen@gmail.com 
 - 👨🏻‍💻 Linkedin: https://www.linkedin.com/in/andrew-schonnesen-ab7393197/
 
 </p>
